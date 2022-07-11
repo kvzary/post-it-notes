@@ -1,2 +1,2 @@
 # post-it-notes
-post-it notes project
+Please view (master branch)[https://github.com/kvzary/post-it-notes/blob/master/README.md]
