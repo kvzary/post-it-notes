@@ -1,4 +1,4 @@
-#Post-It Note Project
+# Post-It Note Project
 
 This is a project manage and keep track of tasks through Post-It Notes.
 
