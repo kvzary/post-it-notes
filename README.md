@@ -10,7 +10,7 @@ Download the [master repository](https://github.com/kvzary/post-it-notes/tree/ma
 
 To run the web-application, you can create a localhost server through git bash. command: php artisan serve
 Start apache and MySQL through XAMPP Control Panel
-Run: <npm run dev> in terminal
+Run: ```npm run dev``` in terminal
 
 Create a database through phpMyAdmin and run the migration scripts. command: php artisan migrate
 
