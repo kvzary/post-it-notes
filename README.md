@@ -1,4 +1,4 @@
-<h1>Post-It Note Project</h1>
+#Post-It Note Project
 
 This is a project manage and keep track of tasks through Post-It Notes.
 
@@ -6,7 +6,7 @@ This is a project manage and keep track of tasks through Post-It Notes.
 SETUP
 -----
 
-To download, change branch to master and download the (master repository)[https://github.com/kvzary/post-it-notes/tree/master].
+To download, change branch to master and download the [master repository](https://github.com/kvzary/post-it-notes/tree/master).
 
 To run the web-application, you can create a localhost server through git bash. command: php artisan serve
 Start apache and MySQL through XAMPP Control Panel
