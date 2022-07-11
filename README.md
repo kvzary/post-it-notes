@@ -19,11 +19,11 @@ APPLICATION
 -----------
 
 This web-application allows the user to:
-*add a new post-it note
-*edit an existing post-it note
-*archive a post-it note
-*specify an expiration for the post-it note
-*delete post-it note after expiration date
-*view archived post-it notes
-*restore archived post-it notes
-*permanently delete post-it notes
+* add a new post-it note
+* edit an existing post-it note
+* archive a post-it note
+* specify an expiration for the post-it note
+* delete post-it note after expiration date
+* view archived post-it notes
+* restore archived post-it notes
+* permanently delete post-it notes
