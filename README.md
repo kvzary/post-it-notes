@@ -14,7 +14,7 @@ To run the web-application:
 * Stade a node in terminal. command: ```npm run dev```
 
 * Create a database through phpMyAdmin
-* Run the migration scripts. command: php artisan migrate
+* Run the migration scripts. command: ```php artisan migrate```
 
 -----------
 APPLICATION
